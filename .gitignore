@@ -132,3 +132,5 @@ dmypy.json
 # Santy's inserts
 runner.bat
 .idea
+datasets
+runner.cmd
